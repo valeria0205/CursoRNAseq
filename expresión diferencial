@@ -1,0 +1,9 @@
+## Expresion diferencial
+
+
+
+## Enriquecimiento funcional
+
+
+# Para realizar un enriquecimiento funcional se debe exportar las tablas creadas con los GeneID y los valores logarítmicos, p-value y FDR a un Excel, ya sea de todos los genes con expresión diferencia, o solo aquellos up o down
+Posteriormente se ingresa a GeneOntology y se insertan estos genes 
